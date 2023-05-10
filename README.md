@@ -12,4 +12,3 @@
 -Ejer7: https://youtu.be/9BavKzWBr3c ✔
 -Ejer8: https://youtu.be/6ZkiOGU4uaA ✔
 -Ejer9: https://youtu.be/n2ACoGsRQHY ✔
--Ejer10: https://youtu.be/LqXh7jOfLlM
