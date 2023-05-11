@@ -98,7 +98,7 @@ class Pelicula {
     calificacionValida(calificacion) {
         calificacion = Number(calificacion);
         if (calificacion > 0 && calificacion < 10) {
-            return calificacion.toFixed(1); // Devolver con 1 decimal.
+            return calificacion; // Devolver con 1 decimal.
         }
         else {
             throw "Invalid calificacion Passed.";
@@ -153,3 +153,5 @@ console.info("- Avengers:")
 avengers.mostrarFichaTecnica();
 console.info("- Relatos Salvajes:")
 relatosSalvajes.mostrarFichaTecnica();
+
+module.exports = Pelicula;
